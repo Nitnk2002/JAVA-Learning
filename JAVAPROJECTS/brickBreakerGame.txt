@@ -1,0 +1,10 @@
+2. Brick Breaker Game
+One of the pleasant ways to study technology is through implementing game applications. It may not be easy but developing this Java project will make you learn a lot of new things. This game development project will provide you with java experience and essential animation techniques with their integration.
+
+Abstract: Many of you already heard of the brick breaker game. It has a small ball that knocks the bricks taking the help of a small platform at the base. The player handles this platform and tries to bounce the ball through that platform. In this project, the scoring depends on the number of bricked-broken, i.e., the more you destroy the bricks, the more you score.
+
+If you missed the chance for the ball to bounce, then the game is over. This project is basically for beginners who are looking for a minor project. This simple project will surely help you with your first-year project or also as an implementation for fun purposes.
+
+
+ Technologies Required:  Java, Game development, JFrame, JPanel, and Java Graphics Kit. 
+

@@ -1,0 +1,7 @@
+7. Library Management System
+Learning Management System, this project build on Java is a great way to update the record, monitor and add books, search for the required ones, taking care of the issue date and return date. It comes with basic features like creating a new record and updating and deleting it.
+
+Abstract: We rely on web-based applications for every task, be it small or big. This contains two sections – the admin and users section. The admin handles the record of the users and the user handles the entry of books being issued to him/her. Also, there can be modules that display the data of books available in the library, a search button to search for the required book, and the final payment method for the charges of the book or fine imposed.
+
+
+ Technologies Required:  Java, Java Swing Library, MySQL JDBC Connector, MySQL Community Server, and rs2xml.jar (used to display the data in a table format). 
